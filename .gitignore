@@ -163,3 +163,4 @@ settings.json
 .DS_Store
 tests/test_agents/
 test_agents/
+.env
